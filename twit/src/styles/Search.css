@@ -1,0 +1,28 @@
+.form {
+    align-items: center;
+    color: blue;
+    background-color: azure;
+    align-content: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+  }
+
+
+.buton{
+    display: flex;
+    box-shadow: black;
+    margin-left: 10px;
+    padding-right: auto;
+}
+
+.search{
+    display: flex;
+    align-items: center;
+}
+
+.image{
+    width: 100px;
+    height: 100px;
+}
